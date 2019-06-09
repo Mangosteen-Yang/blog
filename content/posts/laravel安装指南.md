@@ -1,6 +1,6 @@
 ---
 title: Laravel安装指南
-date: 2019-06-09T12:27:54.808Z
+date: 2016-07-29T12:27:54.808Z
 tags:
   - PHP
 description: 旧文，如果你在2019年看到，请使用docker
