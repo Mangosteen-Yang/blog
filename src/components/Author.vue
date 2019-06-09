@@ -8,7 +8,7 @@
 		</h1>
 
 		<p class="author__intro">
-			{{ $static.metaData.siteDescription }}
+			Love Mangosteen, Love Coding
 		</p>
 
 		<p class="author__links">
@@ -22,8 +22,7 @@
 <static-query>
 query {
   metaData {
-    siteName,
-    siteDescription
+    siteName
   }
 }
 </static-query>
