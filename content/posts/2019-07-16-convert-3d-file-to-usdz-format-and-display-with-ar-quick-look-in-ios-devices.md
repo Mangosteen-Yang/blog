@@ -4,14 +4,15 @@ date: 2019-07-16T00:35:22.761Z
 tags:
   - 3D
 coverImage: /images/uploads/img_2284.jpg
-description: |-
-  ## Prerequisites:
-
-  1. MacOS with Xcode > 10 and command line installed.
-     * run `xcode-select --install` to install
-  2. iOS > 12
-  3. Supported 3D file .obj or .gltf
+description: 'In short, just run `xcrun usdz_converter 3D.obj 3D.usdz`'
 ---
+## Prerequisites:
+
+1. MacOS with Xcode > 10 and command line installed.
+   * run `xcode-select --install` to install
+2. iOS > 12
+3. Supported 3D file .obj or .gltf
+
 ## How to?
 
 Just run `xcrun usdz_converter 3D.obj 3D.usdz`
