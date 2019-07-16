@@ -20,8 +20,6 @@ Then put converted file to built-in apps such as Safari, Messages, Mail, News, a
 
 To quickly see my model, I airdrop my file to my iPhone files then click the 3D file you can check AR object.
 
-![](/images/uploads/img_2284.jpg)
-
 ```
 usdz_converter
 Version: 1.009
