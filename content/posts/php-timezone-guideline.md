@@ -1,10 +1,11 @@
 ---
 title: A Unified Strategy for Timezone Management in Distributed PHP/MySQL Applications
-date: 2025-06-20T00:35:22.761Z
+date: 2025-06-20T00:00:00.000Z
 tags:
-  - PHP
-description: 'PHP timezone Do's and Don'ts'
+  - php
 ---
+
+
 ## **Section 1: Foundational Principles of Time Management in Distributed Systems**
 
 The systemic issues plaguing a distributed application that handles temporal data often stem from a lack of a shared, accurate mental model among the engineering team. When developers have differing or incorrect understandings of how time works, they write conflicting code, leading to a chaotic and unpredictable system. Before any code is written or any database schema is altered, it is imperative to establish a common foundation of principles. This section lays out the "first principles" required to reason about time correctly, providing the conceptual framework upon which a robust and bug-free system can be built.
